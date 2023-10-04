@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+button{
+    background-color: bisque;
+    padding:10px;
+    margin:10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: black;
+    color: bisque;
+}
+
+article{
+    width:400px;
+    height:600px;
+}
+
+img{
+    width:80%;
+    height:auto;
+}
